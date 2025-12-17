@@ -3,6 +3,8 @@ Hands-on cybersecurity incident reports created during training, focusing on net
 
 This repository contains hands-on cybersecurity incident reports created as part of my security training and self-study.
 
+**Scenario Type:** Simulated incident (training environment)
+
 Each report demonstrates:
 - Network traffic analysis
 - Incident detection and investigation
