@@ -1,4 +1,4 @@
-Evidence Collected:
+Evidence collected:
 - tcpdump DNS traffic logs
-- ICMP "udp port 53 unreachable" messages
-- Source IPs and timestamps observed
+- ICMP "UDP port 53 unreachable" messages
+- Source and destination IP addresses
