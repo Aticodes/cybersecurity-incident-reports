@@ -17,7 +17,7 @@ Each report demonstrates:
 | Incident | Focus Area |
 |--------|-----------|
 | Incident 01 | DNS & ICMP Traffic Analysis |
-| Incident 02 | (To be updated) |
+| Incident 02 | SYN-Flood-Attack |
 | Incident 03 | (To be updated) |
 | Incident 04 | (To be updated) |
 
