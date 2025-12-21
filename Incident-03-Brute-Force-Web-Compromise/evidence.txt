@@ -1,0 +1,6 @@
+Evidence Collected:
+- HTTP access logs showing repeated login attempts
+- Admin account compromise
+- Malicious JavaScript injected into website source code
+- DNS redirection to spoofed domain (greatrecipesforme.com)
+- User reports of system slowdowns and unexpected downloads
