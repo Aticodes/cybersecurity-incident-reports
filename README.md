@@ -18,7 +18,7 @@ Each report demonstrates:
 |--------|-----------|
 | Incident 01 | DNS & ICMP Traffic Analysis |
 | Incident 02 | SYN-Flood-Attack |
-| Incident 03 | (To be updated) |
+| Incident 03 | Brute Force attack leading to Website Compromise |
 | Incident 04 | (To be updated) |
 
 ## 🧠 Skills Demonstrated
