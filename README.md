@@ -19,6 +19,7 @@ Each report demonstrates:
 | Incident 02 | SYN Flood Denial of Service Attack |
 | Incident 03 | Brute Force Attack Leading to Website Compromise |
 | Incident 04 | Network Hardening and Security Risk Assessment |
+| Incident 05 | Phishing Attack Leading to Credential Compromise and Data Breach |
 
 ## 🧠 Skills Demonstrated
 - DNS & ICMP troubleshooting
