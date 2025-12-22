@@ -1,0 +1,4 @@
+Evidence Reviewed:
+- User account and password practices
+- Firewall configuration status
+- Authentication mechanisms in use
