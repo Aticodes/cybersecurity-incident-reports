@@ -1,0 +1,5 @@
+Evidence Collected:
+- Access logs showing unauthorized database activity
+- User report of phishing email and fake login page
+- Missing and modified customer records
+- Backup and recovery records
