@@ -1,9 +1,8 @@
 # 🛡️ Cybersecurity Incident Reports
-Hands-on cybersecurity incident reports created during training, focusing on network traffic analysis, threat investigation, and incident response.
 
-This repository contains hands-on cybersecurity incident reports created as part of my security training and self-study.
+This repository contains hands-on cybersecurity incident reports created during training and self-study, focusing on network traffic analysis, threat investigation, and incident response.
 
-**Scenario Type:** Simulated incident (training environment)
+**Scenario Type:** Simulated incidents (training environment)
 
 Each report demonstrates:
 - Network traffic analysis
@@ -17,8 +16,8 @@ Each report demonstrates:
 | Incident | Focus Area |
 |--------|-----------|
 | Incident 01 | DNS & ICMP Traffic Analysis |
-| Incident 02 | SYN-Flood-Attack |
-| Incident 03 | Brute Force attack leading to Website Compromise |
+| Incident 02 | SYN Flood Denial of Service Attack |
+| Incident 03 | Brute Force Attack Leading to Website Compromise |
 | Incident 04 | Network Hardening and Security Risk Assessment |
 
 ## 🧠 Skills Demonstrated
